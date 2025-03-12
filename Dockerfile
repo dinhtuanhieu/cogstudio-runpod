@@ -13,3 +13,4 @@ COPY . /app
 # Chạy lệnh chính (thay 'app.py' bằng file chính của CogStudio)
 CMD ["python3", "app.py"]
 
+
